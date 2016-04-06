@@ -27,7 +27,7 @@ ranges: Latin-1
 To contribute to the project contact Alexei Vanyashin at 
 a (at) cyreal.org
 
-There are two .vfb Source files:
+There are three .vfb Source files:
 1. JacquesFrancois-Regular.vfb (Original Source files with contour overlaps)
 2. JacquesFrancois-Regular-OTF.vfb (Merged and optimized file)
 3. JacquesFrancois-Regular-TTF.vfb (File with TTF countours and manual TT hints)

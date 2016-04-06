@@ -14,3 +14,5 @@ Jacques Francois includes oldstyle figures.
 Jacques Francois is a Unicode typeface family that supports 
 languages that use the Latin script and its variants, and 
 could be expanded to support other scripts.
+
+![Jacques-Francois Font](src/sample.png)
