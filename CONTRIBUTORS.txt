@@ -9,7 +9,5 @@
 # Names should be added to this file as:
 # Name <email address>
 
-Yulia Zhdanova <adamantem@mail.ru>
-Ivan Petrov <malamaka@yandex.ru>
+Manvel Shmavonyan <manveltype@gmail.com>
 Alexei Vanyashin <a@cyreal.org>
-
