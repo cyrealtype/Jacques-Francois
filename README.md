@@ -1,3 +1,5 @@
+#### Jacques Francois Open-Source Font
+
 Jacques Francois revives the c. 1760 type specimen 
 by Jacques François Rosart(1714-1774) for Enschedé 
 printing House. The concept was to create a contemporary 
@@ -15,4 +17,4 @@ Jacques Francois is a Unicode typeface family that supports
 languages that use the Latin script and its variants, and 
 could be expanded to support other scripts.
 
-![Jacques-Francois Font](src/sample.png)
+![Jacques-Francois Font](documentation/sample.png)

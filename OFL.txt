@@ -1,5 +1,4 @@
-Copyright (c) 2011, Cyreal (www.cyreal.org),
-with Reserved Font Name "Jacques Francois".
+Copyright 2018 The Jacques Francois Project Authors (https://github.com/cyrealtype/Jacques-Francois)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
